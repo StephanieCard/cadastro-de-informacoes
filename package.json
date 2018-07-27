@@ -1,0 +1,18 @@
+{
+  "name": "exemplo-node",
+  "version": "1.0.0",
+  "description": "exemplo de node js ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "exemplo",
+    "node",
+    "js",
+    "estacaohack",
+    "facebook"
+  ],
+  "author": "\"Stephanie Cardinali\"",
+  "license": "ISC"
+}
